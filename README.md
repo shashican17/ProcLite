@@ -159,7 +159,7 @@ Requires:
 ### Release build (optimised, recommended)
 
 ```bash
-git clone https://github.com/you/ProcLite.git
+git clone https://github.com/shashican17/ProcLite.git
 cd ProcLite
 make          # equivalent to: cmake -B build -DCMAKE_BUILD_TYPE=Release && cmake --build build
 ```
